@@ -1,0 +1,112 @@
+<mxfile host="Electron" modified="2025-03-20T11:25:41.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="KH44WJZ5EVtQAK2TjgIF" version="24.4.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2074" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-16" target="RjVaYYmn0TgY-7K_Ml8G-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-0" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="-50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-1" target="RjVaYYmn0TgY-7K_Ml8G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-1" value="2.&lt;div&gt;Haal de bestanden uit&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de map C:\Logs en sla&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ze op in de list logFies&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-85" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-3" target="RjVaYYmn0TgY-7K_Ml8G-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-3" value="3.&lt;div&gt;Plaats de bestanden in de map in een list: logFiles&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-8" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-5" target="RjVaYYmn0TgY-7K_Ml8G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-21" value="nee" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-5" target="RjVaYYmn0TgY-7K_Ml8G-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-5" value="4.&lt;div&gt;Is er nog een volgende bestand&lt;/div&gt;&lt;div&gt;&amp;nbsp;in de list?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-12" target="RjVaYYmn0TgY-7K_Ml8G-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-7" value="5.&lt;div&gt;Ga naar het eerstvolgende bestand in de list&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-14" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-9" target="RjVaYYmn0TgY-7K_Ml8G-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-9" value="7.&lt;div&gt;Is het bestand&lt;/div&gt;&lt;div&gt;ouder dan&amp;nbsp;&lt;/div&gt;&lt;div&gt;30 dagen?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="750" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-7" target="RjVaYYmn0TgY-7K_Ml8G-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="570" as="sourcePoint" />
+            <mxPoint x="410" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-12" value="6.&lt;div&gt;Bereken de leeftijd van het bestand&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-13" target="RjVaYYmn0TgY-7K_Ml8G-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-13" value="8.&lt;div&gt;Sla bestandsnaam op in list: logsDeleted&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-0" target="RjVaYYmn0TgY-7K_Ml8G-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="40" as="sourcePoint" />
+            <mxPoint x="410" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-16" value="1.&lt;div&gt;Maak de volgende variabelen:&lt;br&gt;List: logsDeleted(leeg)&lt;/div&gt;&lt;div&gt;List: logFiles(leeg)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="70" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-17" value="9.&lt;div&gt;Verwijder het huidige bestand&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-17" target="RjVaYYmn0TgY-7K_Ml8G-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="740" as="sourcePoint" />
+            <mxPoint x="210" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="1040" />
+              <mxPoint x="-120" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-20" target="RjVaYYmn0TgY-7K_Ml8G-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-20" value="4.1&lt;div&gt;Output: De volgende bestanden&lt;/div&gt;&lt;div&gt;zijn verwijderd: logsDeleted&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-22" target="RjVaYYmn0TgY-7K_Ml8G-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-22" value="4.2&lt;div&gt;Slotbericht&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-25" value="stop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjVaYYmn0TgY-7K_Ml8G-27" value="nee" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RjVaYYmn0TgY-7K_Ml8G-9" target="RjVaYYmn0TgY-7K_Ml8G-5">
+          <mxGeometry x="-0.8966" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="650" as="sourcePoint" />
+            <mxPoint x="310" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="810" />
+              <mxPoint x="-120" y="450" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
